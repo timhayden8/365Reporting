@@ -1,0 +1,9 @@
+microsoft.graph.passwordAuthenticationMethod = Password Authentication
+microsoft.graph.microsoftAuthenticatorAuthenticationMethod =Microsoft Authenticator
+microsoft.graph.phoneAuthenticationMethod = Phone Authentication
+microsoft.graph.fido2AuthenticationMethod  = FIDO2 Auth
+microsoft.graph.windowsHelloForBusinessAuthenticationMethod = Hello For Business
+microsoft.graph.emailAuthenticationMethod    = Email Authentication
+microsoft.graph.temporaryAccessPassAuthenticationMethod  = Temporary Access Pass
+microsoft.graph.passwordlessMicrosoftAuthenticatorAuthenticationMethod = Passwordless
+microsoft.graph.softwareOathAuthenticationMethod = Third Party Authenticator
